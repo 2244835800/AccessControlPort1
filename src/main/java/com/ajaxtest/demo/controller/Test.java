@@ -18,7 +18,7 @@ public class Test {
     @GetMapping("")
     public String getAjaxMsg(){
 
-        return "success1";
+        return "success port:8081";
     }
 
 }
